@@ -1,0 +1,10 @@
+package com.qn.model;
+
+public class Student {
+	int
+
+	
+	public void getResult() {
+		
+	}
+}

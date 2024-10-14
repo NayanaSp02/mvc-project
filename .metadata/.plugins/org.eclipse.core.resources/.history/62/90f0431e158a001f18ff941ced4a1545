@@ -1,0 +1,9 @@
+package com.qn.controller;
+
+import java.security.Provider.Service;
+
+import javax.io.IOException;
+
+public class GetResult extends HttpServlet {
+	Service
+}
